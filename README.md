@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kallukhaleel
-- 👀 I’m interested in ... learning and learning 
+- 👀 I’m dev...
 - 🌱 I’m currently learning ... coding 
 - 💞️ I’m looking to collaborate on ... ...
 - 📫 How to reach me ... kallu_khaleel_klz_
