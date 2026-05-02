@@ -16,7 +16,6 @@
 I'm a **Unity Developer** based in Kerala, India with **2+ years** of professional experience building mobile games for Android and iOS. I've contributed to **5 shipped games** across multiple studios, specializing in **gameplay systems**, **UI architecture**, and **mobile optimization**.
 
 - 🏆 **Awarded Best Game of the Month** for development contributions  
-- 🚀 Currently building **Mela Wala** — a solo 3D Unity project  
 - 📱 Expert in **FairyGUI** UI framework and **DOTween** animations  
 - 🔍 Open to **freelance Unity work**, **part-time contracts**, and **new opportunities**  
 - 📫 Reach me at **kallukhaleelklz786@gmail.com**
